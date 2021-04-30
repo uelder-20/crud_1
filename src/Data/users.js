@@ -9,11 +9,17 @@ export default [
 
 
 },
+
 {
 
     id:2,
-    name:' pelourinho',
+    name:' Farol da Barra',
     Cidade:'Salvador',
-    avatarUrl: 'https://as2.ftcdn.net/jpg/00/38/51/73/500_F_38517378_70rUc3EtzSTHKH1fQwpdGkP2CWBZSYXQ.jpg'
-}
+    avatarUrl: 'https://image.shutterstock.com/image-vector/blank-map-bahia-brazil-high-600w-1767844535.jpg'
+
+
+
+},
+
+
 ];
