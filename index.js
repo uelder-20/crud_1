@@ -1,6 +1,11 @@
-import {AppRegistry} from 'react-native';
-import App from './src/App';
-import {name as appName} from './app.json';
+import Home from'./Home';
+import Login from'./Login';
+import Rastreio from './Rastreio';
+import Cadastro from './Cadastro';
+import Profile from './Profile';
+import Edicao from './Edicao';
 
 
-AppRegistry.registerComponent(appName, () => App);
+
+
+export {Home, Login, Rastreio, Cadastro,Profile,Edicao};
